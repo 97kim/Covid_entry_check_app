@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sppiner_entries">
+        <item>Soup</item>
+        <item>Pasta</item>
+        <item>Pizza</item>
+        <item>Salad</item>
+        <item>Rice</item>
+    </string-array>
+</resources>
